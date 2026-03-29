@@ -294,10 +294,9 @@ export default {
   fetch(request: Request, env: Env, ctx: ExecutionContext) {
     const url = new URL(request.url);
 
-    if (url.pathname === "/sse" || url.pathname === "/mcp") {
-      return ThinkingToolkitMCP.serveSSE("/sse").fetch(request, env, ctx);
-    }
-
+    if (url.pathname === "/mcp") {
+  return ThinkingToolkitMCP.serve("/mcp").fetch(request, env, ctx);
+}
     if (url.pathname === "/") {
       return new Response(
         JSON.stringify({
