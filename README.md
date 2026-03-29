@@ -1,8 +1,8 @@
----
-
 ## Thinking Toolkit
 
 *Twelve structured techniques for diagnosing and resolving stuck-ness. code, strategy, narrative, life.*
+
+---
 
 > https://server.smithery.ai/elbpr/thinking-toolkit 
 
