@@ -1,10 +1,13 @@
+---
+
 ## Thinking Toolkit
 
----
-> https://server.smithery.ai/elbpr/thinking-toolkit
+*Twelve structured techniques for diagnosing and resolving stuck-ness. code, strategy, narrative, life.*
+
+> https://server.smithery.ai/elbpr/thinking-toolkit 
+
 ---
 
-*Twelve structured techniques for diagnosing and resolving stuck-ness. code, strategy, narrative, life.*
 
 Every discipline has its version of the same silence. The developer stares at a function that passes every test and breaks every deployment. The strategist holds two market reports that contradict each other with equal authority. The writer sits with a draft that is competent, coherent, and completely dead on the page. The founder refreshes the same three browser tabs, toggling between options that feel identical in weight and consequence.
 
