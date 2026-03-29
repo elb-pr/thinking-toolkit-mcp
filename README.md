@@ -1,5 +1,7 @@
 # Thinking Toolkit
 
+> https://server.smithery.ai/elbpr/thinking-toolkit
+
 12 structured thinking techniques for diagnosing and resolving stuck-ness.
 
 ## What it does
